@@ -8,7 +8,7 @@ Instructions
 
 1. Clone this repository.
 2. Create a new branch called `<name>_true_dev`.
-3. Create a pull request from your `true_dev` branch to the master branch.
+3. Create a pull request from your `<name>_true_dev` branch to the main branch.
 4. Reply to the thread you're having with our HR department telling them we can start reviewing your code
 
 Given
